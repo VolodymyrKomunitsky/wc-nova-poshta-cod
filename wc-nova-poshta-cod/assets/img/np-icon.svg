@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 24" width="48" height="24" role="img" aria-label="Нова Пошта">
-  <rect width="48" height="24" rx="3" fill="#E63946"/>
-  <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle"
-        font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#fff">
-    НП
-  </text>
-</svg>
